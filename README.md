@@ -1,5 +1,4 @@
-# 💫 About Me:
-👷 i am from Argentina, i am currently studying computer engineering at the university of mendoza
+
 
 
 ## 🌐 Socials:
